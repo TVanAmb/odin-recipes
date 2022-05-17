@@ -1,0 +1,12 @@
+h1 {
+    color: rgba(238, 174, 55, 0.781);
+    background-color: rgb(87, 67, 37);
+    font-weight: bold;
+    text-align: center;
+}
+
+.recipe-list {
+    text-align: center;
+    background-color: rgb(209, 162, 92);
+    color: rgba(238, 174, 55, 0.781);
+}
